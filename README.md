@@ -3,7 +3,7 @@ Singulish: Singular English
 
 The Simplified English that have no plural.
 
-Some natural languages such as Japanese has no plurals goes with no problem,
+Some natural languages such as Japanese has no plurals go with no problem,
 so that is redundant for simplified English.
 
 Using language has no plural, it means you can think abstract concepts without image.
