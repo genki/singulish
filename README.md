@@ -22,6 +22,7 @@ Article
 ----
 No indefinite article. "The" can be used.
 Noun such as "chicken" must be redefined to solve the ambiguousness.
+For example, `chicken meat` can be used instead of `chicken` and then Singulish `chicken` mean `a chicken` or `chickens`.
 
 Explicit countable subject/object
 ----
