@@ -1,9 +1,15 @@
-Singulish
-========
-Singular English: The Simplified English that have no plural.
+Singulish: Singular English
+====
 
-Some natural languages such as Japanese has no plurals with no problem,
-so that is considerable redandunt for simplified English.
+The Simplified English that have no plural.
+
+Some natural languages such as Japanese has no plurals goes with no problem,
+so that is redundant for simplified English.
+
+Using language has no plural, it means you can think abstract concepts without image.
+Suppose the scene some birds are flying but you don't know the count of the birds. The count can be one ore more. English can't describe the situation.
+But Singulish can say just "Bird are flying".
+Simplification is not a lack of expression but expansion.
 
 Subject
 ----
